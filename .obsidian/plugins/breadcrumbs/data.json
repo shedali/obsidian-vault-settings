@@ -21,7 +21,9 @@
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
-  "limitWriteBCCheckboxes": [],
+  "limitWriteBCCheckboxes": [
+    "up"
+  ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
   "hierarchyNotes": [
@@ -109,8 +111,8 @@
       ]
     }
   ],
-  "writeBCsInline": false,
-  "showWriteAllBCsCmd": false,
+  "writeBCsInline": true,
+  "showWriteAllBCsCmd": true,
   "visGraph": "Force Directed Graph",
   "visRelation": "Parent",
   "visClosed": "Real",

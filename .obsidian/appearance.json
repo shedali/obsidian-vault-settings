@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "translucency": true,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "theme": "obsidian",
   "textFontFamily": "OperatorMono Nerd Font",
   "showViewHeader": false
