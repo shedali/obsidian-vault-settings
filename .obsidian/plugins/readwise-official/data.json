@@ -5,10 +5,17 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 0,
+  "lastSavedStatusID": 7383679,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "_readwise/_tweets/Liked Tweets.md": "19431507",
+    "_readwise/_podcasts/Prime Minister Rishi Sunak.md": "20029384",
+    "_readwise/_tweets/Tweets From Elon Musk.md": "22743273",
+    "_readwise/_tweets/Tweets From Dan Robinson.md": "22941011",
+    "_readwise/_articles/The Expanding Dark Forest and Generative AI.md": "23260842",
+    "_readwise/_podcasts/Is Britain Becoming Irrelevant.md": "23742996"
+  },
   "reimportShowConfirmation": true
 }
