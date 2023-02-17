@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "reading-notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "markdownCitationTemplate": "@{{citekey}}",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/franz/dev/settings/packages/citations/all.bib"
+}
