@@ -62,5 +62,13 @@
   "workspace:goto-tab-1": [],
   "graph:open": [],
   "workspace:new-tab": [],
-  "note-refactor-obsidian:app:extract-selection-first-line": []
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Z"
+    }
+  ]
 }

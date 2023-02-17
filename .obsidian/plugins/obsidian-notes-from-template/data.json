@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "test",
+  "outputDirectory": "atoms",
   "templateFilename": "{{title}}",
   "inputFieldList": "title,body",
   "textReplacementTemplate": "[[{{title}}]]",
