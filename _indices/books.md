@@ -1,0 +1,6 @@
+```dataview
+table title,status,rating
+from "_literature-notes"
+WHERE type="book"
+sort rating desc
+```
