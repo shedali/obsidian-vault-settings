@@ -9,8 +9,8 @@
     "left": 424,
     "right": 300
   },
-  "attachmentFolderPath": "clips",
-  "newLinkFormat": "relative",
+  "attachmentFolderPath": "_attachments",
+  "newLinkFormat": "shortest",
   "defaultViewMode": "preview",
   "foldHeading": true,
   "pdfExportSettings": {
@@ -23,10 +23,10 @@
   "livePreview": false,
   "foldIndent": true,
   "showLineNumber": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "fileSortOrder": "byCreatedTime",
   "vimMode": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "mobileToolbarCommands": [
     "obsidian-map-view:insert-geolink",
     "editor:swap-line-up",
