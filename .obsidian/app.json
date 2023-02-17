@@ -39,5 +39,6 @@
     "editor:unindent-list",
     "obsidian-tasks-plugin:edit-task"
   ],
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "newFileLocation": "current"
 }
