@@ -4,5 +4,6 @@
   "translucency": true,
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "textFontFamily": "OperatorMono Nerd Font"
+  "textFontFamily": "OperatorMono Nerd Font",
+  "showViewHeader": false
 }
