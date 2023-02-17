@@ -36,19 +36,17 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "S"
+      "key": "1"
     }
   ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "R"
+      "key": "0"
     }
   ],
   "graph:open-local": [
@@ -58,5 +56,11 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "workspace:goto-tab-1": [],
+  "graph:open": [],
+  "workspace:new-tab": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": []
 }
