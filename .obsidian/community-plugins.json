@@ -11,7 +11,6 @@
   "hover-external-link",
   "obsidian-map-view",
   "note-refactor-obsidian",
-  "obsidian-graphviz",
   "obsidian-outliner",
   "readwise-official",
   "obsidian-plugin-toc",
@@ -26,5 +25,8 @@
   "homepage",
   "obsidian-remember-file-state",
   "obsidian-spaced-repetition",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "juggl",
+  "obsidian-graphviz",
+  "heatmap-calendar"
 ]
