@@ -15,7 +15,6 @@
   "readwise-official",
   "obsidian-plugin-toc",
   "templater-obsidian",
-  "obsidian-timelines",
   "cm-typewriter-scroll-obsidian",
   "obsidian-telegraph-publish",
   "nldates-obsidian",
@@ -28,5 +27,11 @@
   "obsidian-kanban",
   "juggl",
   "obsidian-graphviz",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "heycalmdown-navigate-cursor-history",
+  "mrj-jump-to-link",
+  "obsidian-day-planner",
+  "obsidian-full-calendar",
+  "obsidian-admonition",
+  "settings-search"
 ]

@@ -1,6 +1,6 @@
 ```dataview
 table title,status,rating
 from "_literature-notes"
-WHERE type="book"
+WHERE status
 sort rating desc
 ```

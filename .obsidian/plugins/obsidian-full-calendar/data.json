@@ -1,0 +1,39 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "color": "#2DFF45",
+      "url": "https://caldav.icloud.com",
+      "username": "shedali@gmail.com",
+      "password": "becx-nlzn-ufkb-miie",
+      "name": "Main",
+      "homeUrl": "https://caldav.icloud.com/102265972/calendars/35A4E7D5-F091-403F-897D-1977FCCB1665/"
+    },
+    {
+      "type": "caldav",
+      "color": "#F4693A",
+      "url": "https://caldav.icloud.com",
+      "username": "shedali@gmail.com",
+      "password": "becx-nlzn-ufkb-miie",
+      "name": "Eventbrite",
+      "homeUrl": "https://caldav.icloud.com/102265972/calendars/80DF64BA-2069-4A81-8120-83FA61090CAA/"
+    },
+    {
+      "type": "caldav",
+      "color": "#F5D209",
+      "url": "https://caldav.icloud.com",
+      "username": "shedali@gmail.com",
+      "password": "becx-nlzn-ufkb-miie",
+      "name": "Events",
+      "homeUrl": "https://caldav.icloud.com/102265972/calendars/E4B22868-1945-4504-AD18-0E01B9FE568F/"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

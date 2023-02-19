@@ -1,9 +1,10 @@
 ---
 id: <% tp.date.now("YYYMMDDHHmm") %>
 aliases: <% tp.file.cursor(1) %>
+type: #knowledge 
+tags: <% tp.file.cursor(2) %>
 ---
-Type: #knowledge 
-Tags: <% tp.file.cursor(2) %>
+
 
 # ⽊ <% tp.file.title %>
 <% tp.file.cursor(3) %>

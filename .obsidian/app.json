@@ -40,5 +40,6 @@
     "obsidian-tasks-plugin:edit-task"
   ],
   "communityPluginSortOrder": "download",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }

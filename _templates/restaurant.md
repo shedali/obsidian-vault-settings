@@ -5,4 +5,4 @@ visited: no
 tags: 
 ---
 
-<% await tp.file.move("/culture/dining" + tp.file.title) %>
+<% await tp.file.move("/culture/dining/" + tp.file.title) %>

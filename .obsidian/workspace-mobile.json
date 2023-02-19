@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "07ee226d64a11ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1e3336dbffa197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ce14df7ac4bb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_journals/2023-02-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64302bc1e39af419",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9bee5f6941e942f3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "ab754bbf12cc3929",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "35d275577305cf3e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e68d96af719a39dc",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bca7c33e2d16bbe0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "63cf46d46485ae2a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_journals/2023-02-19.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e1759add356ed0b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_journals/2023-02-19.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1ff124d2fd02ebda",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_journals/2023-02-19.md"
+          }
+        }
+      },
+      {
+        "id": "a92a9556466235c8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5cad26e3d81c9ec0",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "be7a0de6ac4b30de",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {}
+        }
+      },
+      {
+        "id": "aa2b5a263e0a685b",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {}
+        }
+      },
+      {
+        "id": "7fdb50659146a8aa",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "a8cc186cb8cc2a2e",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "e9ce14df7ac4bb28",
+  "lastOpenFiles": [
+    "_knowledge/development/technologies/typescript type inference.md",
+    "_ideas/product fragmentation.md",
+    "_literature-notes/@Deutsch2011.md",
+    "_ideas/sanity.io.md",
+    "_attachments/how-to-fix-memory-leak.png.png",
+    "_ideas/signs of civilisation decline.md",
+    "_literature-notes/@useem_2017.md",
+    "_literature-notes/@coyier_2021.md",
+    "_ideas/life as a series of unimportant events.md",
+    "_attachments/Pasted image 20230217224749.png",
+    "_ideas/svelte undo manager implementation.md",
+    "_ideas/probably dont need sass.md",
+    "_literature-notes/@White_aa.md",
+    "_literature-notes/@contentful_2019.md",
+    "_memes/debugging memory leaks.md",
+    "_knowledge/knowledge/obsidian/knowledge management with obsidian.md",
+    "_literature-notes/@chatfield_.md",
+    "_ideas/node proload.md",
+    "_knowledge/development/technologies/⽊ typescript.md",
+    "_knowledge/knowledge/learning/education/children's education.md",
+    "_knowledge/development/technologies/⽊ Web Technologies Frameworks.md",
+    "_ideas/product development.md",
+    "_ideas/bun.md",
+    "_knowledge/development/commit signing.md",
+    "_ideas/restaurant QR ordering.md",
+    "_ideas/social media amplifies moral outrage.md",
+    "_readwise/_tweets/Tweets From Elon Musk.md",
+    "_attachments/false-online-presence.png",
+    "_attachments/Pasted image 20230217232408.png",
+    "_readwise/_tweets/Tweets From Dan Robinson.md",
+    "media/Language Is Used as a Group Protection Strategy.mkv",
+    "_presentations/,gitkeep"
+  ]
+}

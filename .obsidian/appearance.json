@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 19,
+  "baseFontSize": 15,
   "translucency": true,
   "cssTheme": "",
   "theme": "obsidian",
   "textFontFamily": "OperatorMono Nerd Font",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": false
 }
